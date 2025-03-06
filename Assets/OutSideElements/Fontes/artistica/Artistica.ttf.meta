@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 54c942654e7b53441a2f6a6e8ff32cbc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Artistica
+  fontNames:
+  - Artistica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44bec0b9b0e83864c9d2a8cf5ead3156, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

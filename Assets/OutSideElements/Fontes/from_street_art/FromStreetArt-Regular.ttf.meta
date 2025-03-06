@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 53e70446bae43fe4db98bbcc70185bf7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: From Street Art
+  fontNames:
+  - From Street Art
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00428435ff98e654da89ef166561fb53, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: be9b9cd4a6b2f824ca088cc5c67a4998
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital Cards Demo
+  fontNames:
+  - Digital Cards Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 36471f312dd2f3e45aa6fd6a0a97e595, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

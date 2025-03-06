@@ -1,0 +1,84 @@
+================================================================================
+ License for Artifice.rs —  Terms of Use / End-User License Agreement
+================================================================================
+
+ Artifice.rs: a creature-like rounded font
+
+ © Robert A. Paauwe
+ info@robertpaauwe.com
+
+================================================================================
+ FREE FOR PERSONAL USE
+================================================================================
+
+ This font is free for personal use and may not be used commercially without
+ purchasing the font for €19.99 through Paypal. Please read the entire TOU/EULA.
+ For further questions, comments, or information, contact Robert A. Paauwe at info@robertpaauwe.com
+
+================================================================================
+ COMMERCIAL USE
+================================================================================
+
+ The Commercial EULA applies immediately upon purchasing the font for €19.99
+ through Paypal (addressed at robert.paauwe@gmail.com). A commercial license
+ for Artifice.rs is unlimited, and does not expire. A commercial license includes
+ web-embedding
+
+ Paypal: €19.99 (euro)
+ robert.paauwe@gmail.com
+
+================================================================================
+  RESTRICTIONS
+================================================================================
+
+ You may not alphabet or letterform products that are intended for resale. This
+ includes stamps and stickers where the likeness of font can be recreated by the
+ end-user.
+
+ Web-embedding requires a commercial license (see above). The commercial license
+ permits the use of @font-face, Adobe Flash, Silverlight, Typeface.js, and
+ similar technologies.
+
+================================================================================
+ DISTRIBUTION
+================================================================================
+
+ The distribution of this font for financial gain or profit is not permitted
+ under any circumstances and is strictly prohibited. Do not add this font to a
+ font CD or compilation and/or archive that is sold for profit.
+
+ Redistribution of this font is permitted only if it is free of charge, if this
+ readme is included with the font file itself, as well as the mentioning of the
+ following name, email address, and webpage:
+
+ Robert A. Paauwe
+ www.robertpaauwe.com
+ info@robertpaauwe.com
+
+================================================================================
+ MODIFICATIONS
+================================================================================
+
+ This font file must be kept intact as downloaded. Do not edit, alter or modify
+ the font file under any circumstance. This prohibits and includes but is
+ not limited to, renaming this font file, as well as creating derivative fonts
+ from this font file or any other possible digital representations.
+
+================================================================================
+ RESPONSIBILITY
+================================================================================
+
+ Upon downloading this font, the user accepts all liability and sole
+ responsibility for the font file and any accompanying files therein.
+ The Author is not responsible or liable for any damages, loss or other
+ consequences incurred as a result of downloading this font, or otherwise
+ relating or associated with the download.
+
+================================================================================
+ COPYRIGHT
+================================================================================
+
+ It is expressly forbidden to copy or modify the font, or include it with other
+ software. You may be held legally responsible for infringing on
+ the Authors intellectual property if you fail to adhere to this
+ agreement.
