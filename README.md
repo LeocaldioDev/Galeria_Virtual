@@ -33,11 +33,19 @@ Vitrine com Descrição:
 Este projeto é de código aberto e suas contribuições são bem-vindas! Se você deseja adicionar suas próprias obras de arte ou melhorias, siga estas etapas:
 
 Fork o repositório.
+
 Crie uma branch para sua contribuição: git checkout -b minha-contribuicao
+
 Adicione suas alterações e faça commit: git commit -am 'Adiciona minha contribuição'
+
 Faça push para sua branch: git push origin minha-contribuicao
+
 Abra um Pull Request.
-Requisitos
+
+# Requisitos
+
 Unity 2019.4.40f1
+
 GoogleVR SDK para Unity
+
 Dispositivo móvel compatível com GoogleVR
