@@ -23,10 +23,11 @@ Visão Externa da Galeria:
 ![4](https://github.com/user-attachments/assets/96969876-6a55-4e91-98b8-d462f1c6db8f)
 
 Visão Interna da Galeria:
-![2](https://github.com/user-attachments/assets/ec5e8544-c154-4a65-b245-4fbc4d00d264)
+![2](https://github.com/user-attachments/assets/7a87275e-f26e-4832-bec1-fe8694a810b2)
 
 Vitrine com Descrição:
-![3](https://github.com/user-attachments/assets/8548fbef-489e-4f48-8114-132fdfb6dfae)
+![3](https://github.com/user-attachments/assets/5437aabe-70f6-498e-924f-90445b2ca0f0)
+
 
 # Como Contribuir
 Este projeto é de código aberto e suas contribuições são bem-vindas! Se você deseja adicionar suas próprias obras de arte ou melhorias, siga estas etapas:
