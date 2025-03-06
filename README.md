@@ -30,6 +30,7 @@ Vitrine com Descrição:
 
 
 # Como Contribuir
+
 Este projeto é de código aberto e suas contribuições são bem-vindas! Se você deseja adicionar suas próprias obras de arte ou melhorias, siga estas etapas:
 
 Fork o repositório.
