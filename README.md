@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/6f17511a-e74f-4c1b-b6dc-ce13c895e139)# Galeria_Virtual
+# Galeria_Virtual
 
 Este projeto é uma galeria virtual imersiva criada com Unity e GoogleVR, projetada para dispositivos móveis. Permite aos usuários explorar uma galeria de arte virtual, visualizar obras de arte e contribuir com suas próprias criações.
 
